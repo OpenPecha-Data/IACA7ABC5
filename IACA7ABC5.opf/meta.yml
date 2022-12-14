@@ -1,0 +1,28 @@
+id: IACA7ABC5
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:11:15.582977+00:00
+last_modified: 2022-12-14 18:11:15.582982+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-19T04:50:26.544Z'
+  creationid: BG
+  eft-text-id: UT22084-051-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_114-The_King_of_the_Array_of_All_Dharmas-v1
+bases:
+  5D24:
+    source_metadata: null
+    order: 1
+    base_file: 5D24.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
